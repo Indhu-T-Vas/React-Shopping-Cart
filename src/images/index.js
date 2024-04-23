@@ -1,0 +1,12 @@
+export { default as apple_red_airpods } from "./apple_red_airpods.jpg";
+export { default as apple_airpods } from "./apple_airpods.jpg";
+export { default as apple_watch } from "./apple_watch.jpg";
+export { default as HP_laptop } from "./HP_laptop.png";
+export { default as HP_Pavilion_Gaming_Laptop } from "./HP_Pavilion_Gaming_Laptop.jpg";
+export { default as iphone } from "./iphone.jpg";
+export { default as iPhone_X } from "./iPhone_X.jpg";
+export { default as OnePlus_Nord } from "./OnePlus_Nord.jpg";
+export { default as Mac } from "./Mac.png";
+export { default as carousel_1 } from "./Carousel/4k-laptop-yn553k4gdhpc4hlh.jpg";
+export { default as carousel_2 } from "./Carousel/iphone-wallpaper-3554x1999.jpg";
+export { default as carousel_3 } from "./Carousel/laptop_ultra_4k_hd_desktop_background-1920x1080.jpg";
