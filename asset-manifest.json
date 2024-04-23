@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React-Shopping-Cart/static/css/main.f8a5ba8f.css",
+    "main.js": "/React-Shopping-Cart/static/js/main.c5b01ba7.js",
+    "static/js/453.4f6db94c.chunk.js": "/React-Shopping-Cart/static/js/453.4f6db94c.chunk.js",
+    "static/media/iphone-wallpaper-3554x1999.jpg": "/React-Shopping-Cart/static/media/iphone-wallpaper-3554x1999.065a75a5aaaad7351e66.jpg",
+    "static/media/Mac.png": "/React-Shopping-Cart/static/media/Mac.8414ed6140c9d07556a4.png",
+    "static/media/laptop_ultra_4k_hd_desktop_background-1920x1080.jpg": "/React-Shopping-Cart/static/media/laptop_ultra_4k_hd_desktop_background-1920x1080.a04752bae196aa2a6e4f.jpg",
+    "static/media/HP_laptop.png": "/React-Shopping-Cart/static/media/HP_laptop.e73efdf11cc0fefb3536.png",
+    "static/media/4k-laptop-yn553k4gdhpc4hlh.jpg": "/React-Shopping-Cart/static/media/4k-laptop-yn553k4gdhpc4hlh.d67e0ac67563abb231b7.jpg",
+    "static/media/apple_red_airpods.jpg": "/React-Shopping-Cart/static/media/apple_red_airpods.81dc42b1ce5a9a387e3a.jpg",
+    "static/media/iphone.jpg": "/React-Shopping-Cart/static/media/iphone.ed7452d8c7f5893c4d11.jpg",
+    "static/media/OnePlus_Nord.jpg": "/React-Shopping-Cart/static/media/OnePlus_Nord.320244a3b80d6efaf07f.jpg",
+    "static/media/HP_Pavilion_Gaming_Laptop.jpg": "/React-Shopping-Cart/static/media/HP_Pavilion_Gaming_Laptop.d635703afeae4a0b5437.jpg",
+    "static/media/iPhone_X.jpg": "/React-Shopping-Cart/static/media/iPhone_X.3a3b9e760249bec43af8.jpg",
+    "static/media/apple_watch.jpg": "/React-Shopping-Cart/static/media/apple_watch.33ede9b8cdc38fd76a8c.jpg",
+    "static/media/apple_airpods.jpg": "/React-Shopping-Cart/static/media/apple_airpods.5e5f0e0f8af5fe9f05e8.jpg",
+    "index.html": "/React-Shopping-Cart/index.html",
+    "main.f8a5ba8f.css.map": "/React-Shopping-Cart/static/css/main.f8a5ba8f.css.map",
+    "main.c5b01ba7.js.map": "/React-Shopping-Cart/static/js/main.c5b01ba7.js.map",
+    "453.4f6db94c.chunk.js.map": "/React-Shopping-Cart/static/js/453.4f6db94c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f8a5ba8f.css",
+    "static/js/main.c5b01ba7.js"
+  ]
+}
